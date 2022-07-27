@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zoologymcq/static/css/main.039bf95e.css",
+    "main.js": "/zoologymcq/static/js/main.cc80ff64.js",
+    "index.html": "/zoologymcq/index.html",
+    "main.039bf95e.css.map": "/zoologymcq/static/css/main.039bf95e.css.map",
+    "main.cc80ff64.js.map": "/zoologymcq/static/js/main.cc80ff64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.cc80ff64.js"
+  ]
+}
